@@ -1,0 +1,49 @@
+.header_1 {
+      position: relative;
+    }
+	.para{
+	  position: relative;
+      left: 10%;
+	}
+    body {
+		margin:0;
+	 
+    }
+	.container_1{
+		position: relative;
+			left:250px;
+	}
+    .container {
+	 
+
+	 padding:100px;
+	 padding-left:0;
+	 min-height:800px;
+	 background-color: #e3f6f5;
+	 font-family: Verdana, sans-serif;
+
+    }
+
+    td.format_1{
+		
+      text-align: right;
+      font-size: 20px;
+      padding: 10px;
+      display: block;
+    }
+
+    td.u_l{
+      text-align: right;
+      padding: 10px;
+      padding-top: 0;
+      font-size: 20px;
+    }
+
+    .button {
+		background-color:#333333;
+		color: white;
+		border:none;
+		padding:10px;
+		font-size:17px;
+      text-align: centre;
+    }

@@ -1,0 +1,44 @@
+.header_2{
+      position: relative;
+    }
+	.para_2{
+	  position: relative;
+      left: 38%;
+	}
+    body {
+	margin:0;
+    }
+    .container {
+	 padding: 50px;
+	  min-height:700px;
+	 background-color: #e3f6f5;
+	 font-family: Verdana, sans-serif;
+
+
+    }
+    .table_1 {
+      position: relative;
+      left: 30%;
+    }
+
+    td.format {
+      text-align: right;
+      font-size: 20px;
+      padding: 10px;
+      display: block;
+    }
+
+    td.u {
+      text-align: right;
+      padding: 10px;
+      padding-top: 0;
+      font-size: 20px;
+    }
+	.button {
+		background-color:#333333;
+		color: white;
+		border:none;
+		padding:10px;
+		font-size:17px;
+      text-align: centre;
+    }

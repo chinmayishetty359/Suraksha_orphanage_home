@@ -1,0 +1,35 @@
+.n {
+      margin: 0px 0px 0px 0px;
+      padding: 10px;
+      background-color: #333333;
+      overflow: hidden;
+
+    }
+
+
+    .n a{
+      float: right;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+	  color: #ffffff;
+      font-size: 20px;
+    }
+
+    .special a,h{
+      float: left;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+	  color: #ffffff;
+      font-size: 35px;
+    }
+
+    .n a:hover {
+      background-color: #bae8e8;
+      color: #333333;
+    }
+	.n a.active {
+      background-color: #706c61;
+      color: white;
+    }

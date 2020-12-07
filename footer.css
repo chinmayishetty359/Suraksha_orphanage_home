@@ -1,0 +1,24 @@
+.foo {
+		text-align:center;
+		min-heigth:100px;
+		width:100%;
+		padding:50px;
+		background-color:black;
+		opacity:0.75;
+    }
+	.foo a{
+		padding:20px;
+		color:#bae8e8;
+		text-decoration:none;
+	}
+	.foo a:hover{
+		color:white;
+		margin:0px;
+		text-decoration:none;
+	}
+	h4{
+		color:white;
+	}
+	h3{
+		color:white;
+	}
